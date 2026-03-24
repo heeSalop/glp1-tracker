@@ -1,0 +1,27 @@
+name: glp1_tracker
+description: A free, open-source GLP-1 medication tracker for everyone.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  flutter_local_notifications: ^17.1.2
+  provider: ^6.1.2
+  intl: ^0.19.0
+  fl_chart: ^0.68.0
+  permission_handler: ^11.3.1
+  timezone: ^0.9.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
