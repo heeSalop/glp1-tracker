@@ -18,6 +18,10 @@ All data is stored **locally on-device** — no accounts, no cloud, no cost.
 
 ---
 
+<img width="608" height="1341" alt="image" src="https://github.com/user-attachments/assets/4a9bf957-16eb-45ca-8b01-08351495de8c" />
+
+
+
 ## Getting Started
 
 ### Prerequisites
